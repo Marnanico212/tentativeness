@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Hahn",
+    "age": 4,
+    "address": {
+        "street": "White Center",
+        "city": "South Samantha",
+        "state": "Florida",
+        "zip": "50863"
+    },
+    "contact": {
+        "phone": "821.258.8032x123",
+        "servicePhone": "800279100"
+    },
+    "birthday": "2021-04-11",
+    "ip": "69.229.199.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Film such daughter. Number social subject apply surface. Resource relate total growth believe.",
+        "bio": "Miss spring sound particular sign improve. Moment note he wind total. Head deal evidence type trial firm return at."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
