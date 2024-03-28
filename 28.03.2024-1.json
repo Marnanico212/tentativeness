@@ -1,0 +1,25 @@
+{
+    "name": "Morgan Jackson",
+    "age": 33,
+    "address": {
+        "street": "Jason Pike",
+        "city": "Joshuaburgh",
+        "state": "Texas",
+        "zip": "99129"
+    },
+    "contact": {
+        "phone": "935.564.2670",
+        "servicePhone": "800033011"
+    },
+    "birthday": "1992-22-12",
+    "ip": "56.136.97.149",
+    "foo": "bar",
+    "profile": {
+        "about": "No try relate be politics a practice. Pick discussion point anything civil central allow.",
+        "bio": "Note develop example of before whose investment. Half station level."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
