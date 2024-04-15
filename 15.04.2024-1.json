@@ -1,0 +1,25 @@
+{
+    "name": "Julie Ruiz MD",
+    "age": 10,
+    "address": {
+        "street": "Julia Bridge",
+        "city": "Bradleyview",
+        "state": "Oregon",
+        "zip": "92253"
+    },
+    "contact": {
+        "phone": "3793906299",
+        "servicePhone": "800800231"
+    },
+    "birthday": "2015-25-12",
+    "ip": "54.238.43.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon sport development feel. Rich act prove game better at. Dream director address.\nHundred enough prevent scientist get high actually sure. White hair never. Dog none effect.",
+        "bio": "Such event alone bill brother. Very specific brother ability. Service especially Mr. Sometimes theory way seven.\nFront though attention. Heavy nothing degree speak top before."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
