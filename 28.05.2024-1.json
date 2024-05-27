@@ -1,0 +1,25 @@
+{
+    "name": "Jesus Martinez",
+    "age": 59,
+    "address": {
+        "street": "Marks Estate",
+        "city": "Lake Louis",
+        "state": "Connecticut",
+        "zip": "39137"
+    },
+    "contact": {
+        "phone": "001-959-989-8048x4173",
+        "servicePhone": "800877716"
+    },
+    "birthday": "1966-04-02",
+    "ip": "177.44.156.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn accept figure lay.\nRequire one attention. Anyone box our cause last. The go edge family sure these according.",
+        "bio": "Fine nor way establish court me rule. Smile various son. Wind stuff research store situation scientist attack."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
