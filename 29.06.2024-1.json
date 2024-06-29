@@ -1,0 +1,25 @@
+{
+    "name": "Ashley King",
+    "age": 21,
+    "address": {
+        "street": "Tracey Pass",
+        "city": "New Chloe",
+        "state": "Missouri",
+        "zip": "87967"
+    },
+    "contact": {
+        "phone": "(963)627-8845x26234",
+        "servicePhone": "800894199"
+    },
+    "birthday": "2004-12-05",
+    "ip": "41.138.189.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate represent process serious security. Cell special fast while house. Parent inside season clearly hard system.",
+        "bio": "Bring them current visit. Authority bar administration term hold break public.\nMedia fact of current parent where. Boy color piece require race pass choose."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
