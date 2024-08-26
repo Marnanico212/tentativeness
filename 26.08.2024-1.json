@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Lewis",
+    "age": 66,
+    "address": {
+        "street": "Smith Street",
+        "city": "Castillomouth",
+        "state": "New Hampshire",
+        "zip": "68830"
+    },
+    "contact": {
+        "phone": "506-438-1727",
+        "servicePhone": "800049010"
+    },
+    "birthday": "1959-25-04",
+    "ip": "93.182.17.207",
+    "foo": "bar",
+    "profile": {
+        "about": "As discussion experience usually trial development authority. Truth myself top may onto over.\nSea strong property red. First each name cost near high.",
+        "bio": "Amount kind green bring campaign someone north. Range glass impact will sing soon enter. Financial medical plant couple big animal environment poor."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
