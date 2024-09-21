@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Garcia",
+    "age": 85,
+    "address": {
+        "street": "Raymond Mission",
+        "city": "Smallburgh",
+        "state": "Michigan",
+        "zip": "82121"
+    },
+    "contact": {
+        "phone": "536-850-0131x803",
+        "servicePhone": "800534034"
+    },
+    "birthday": "1940-01-04",
+    "ip": "92.236.209.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Care cover customer check lose few. Man anything push fall fear production. Light morning management marriage network system.",
+        "bio": "Tend bank look dream event end question surface. First chance factor hope. These someone start staff suggest reduce drive."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
