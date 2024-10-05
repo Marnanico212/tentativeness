@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Roth",
+    "age": 66,
+    "address": {
+        "street": "Harris Ramp",
+        "city": "Christensenland",
+        "state": "Mississippi",
+        "zip": "26743"
+    },
+    "contact": {
+        "phone": "293.404.9697x02917",
+        "servicePhone": "800955844"
+    },
+    "birthday": "1959-07-09",
+    "ip": "21.37.216.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Three market key simple similar such see. Fish despite full bank after drive voice affect. Report never girl manager you before.",
+        "bio": "Shake else wall ever after develop house. Rather name environmental value capital fine.\nRaise surface now color market too huge. Court yeah away never early pretty yard. Tough late all about."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
