@@ -1,0 +1,25 @@
+{
+    "name": "Karen Leon",
+    "age": 62,
+    "address": {
+        "street": "Smith Light",
+        "city": "East Rebecca",
+        "state": "Oklahoma",
+        "zip": "33673"
+    },
+    "contact": {
+        "phone": "538-326-2141x531",
+        "servicePhone": "800185697"
+    },
+    "birthday": "1963-16-06",
+    "ip": "103.147.9.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Century approach spend.\nElse watch far doctor himself before look. Whom type history suffer. Central conference TV economic.\nSimple whose feel during. Center crime performance minute.",
+        "bio": "Dog some small feeling deal explain. Concern teacher Congress break. Statement today modern in little.\nDetermine attorney responsibility remember tell daughter. Manager very relate check."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
