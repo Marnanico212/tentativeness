@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Nelson",
+    "age": 102,
+    "address": {
+        "street": "Antonio Forest",
+        "city": "East Scottview",
+        "state": "Illinois",
+        "zip": "89585"
+    },
+    "contact": {
+        "phone": "001-205-433-9558x90031",
+        "servicePhone": "800911798"
+    },
+    "birthday": "1923-27-12",
+    "ip": "66.233.103.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper plan field. Into fish coach face home score mission.\nRule so choice speak. Thus foot loss particular.\nWe adult include others. Energy our true conference generation age behind.",
+        "bio": "Network seek article. Hope her your write light fine five movie.\nAccount wait glass computer ground trouble growth. Operation step he choice wish."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
