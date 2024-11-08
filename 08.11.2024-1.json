@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Green",
+    "age": 112,
+    "address": {
+        "street": "Hunter Mills",
+        "city": "Jessicaton",
+        "state": "West Virginia",
+        "zip": "21092"
+    },
+    "contact": {
+        "phone": "001-666-892-5561x2230",
+        "servicePhone": "800414762"
+    },
+    "birthday": "1913-13-04",
+    "ip": "160.12.49.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity nice look sign prepare economic. Some answer similar president piece head.\nThis buy along area suggest. Ten people language attention week point matter.",
+        "bio": "Item write right financial brother. Reach painting apply case raise high prevent set. Hold leader red plant."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
